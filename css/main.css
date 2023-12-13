@@ -10,7 +10,11 @@
    -ms-text-size-adjust: 100%;
 }
 
-
+.fuentetxt {
+   font-style: italic;
+   font-size: 15px;
+   color: blue;
+}
 
 
 
